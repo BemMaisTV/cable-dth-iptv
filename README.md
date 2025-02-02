@@ -901,3 +901,5 @@ http://210.210.155.66/h/h07/01.m3u8
 http://210.210.155.66/h/h03/02.m3u8
 #EXTINF:-1,MAL: LIFE STYLE
 http://210.210.155.66/h/h28/02.m3u8
+#EXTINF:-1,MAL: BEM MAIS TV
+https://video09.logicahost.com.br/bemmaistv01/bemmaistv01/playlist.m3u8
